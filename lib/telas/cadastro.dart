@@ -1,4 +1,4 @@
-import 'package:cronograma_form/pagina.dart';
+import 'package:cronograma_form/telas/pagina.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 

@@ -11,8 +11,6 @@ class Pagina extends StatefulWidget {
 
 class _PaginaState extends State<Pagina> {
   final List<String> _lista = [''];
-  final List<String> entries = <String>['A', 'B', 'C'];
-  final List<int> colorCodes = <int>[600, 500, 100];
 
   @override
   Widget build(BuildContext context) {
